@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Exercise9.dir/main.c.o  -o Exercise9 
